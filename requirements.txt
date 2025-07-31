@@ -1,2 +1,8 @@
 dash
+dash-bootstrap-components
+
 pandas
+plotly
+numpygit add requirements.txt
+git commit -m "Add missing dependency: dash-bootstrap-components"
+git push
